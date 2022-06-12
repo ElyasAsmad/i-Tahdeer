@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap');
+
+VBox {
+    -fx-font-family: 'Inter', sans-serif;
+}
+
+TextField {
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+}
+
+PasswordField {
+    -fx-padding: 10px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+}
+
+.submitBtn {
+    -fx-background-color: #009290;
+    -fx-text-fill: #fff;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-font-family: 'Inter';
+    -fx-font-size: 14px;
+}
+
+.title {
+    -fx-font-weight: bold;
+    -fx-font-family: 'Inter';
+}
+
+.subtitle {
+    -fx-font-size: 14px;
+    -fx-font-family: 'Inter';
+}
+
+.login-container {
+    -fx-width: 80%;
+}
+
+.text {
+    -fx-font-family: 'Inter';
+}

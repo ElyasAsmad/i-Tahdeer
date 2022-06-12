@@ -1,0 +1,23 @@
+#container {
+    -fx-background-color: #cce8e6;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-padding: 15px;
+}
+
+Text, Label {
+    -fx-font-family: 'Inter';
+}
+
+#task-title {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+#course-name {
+    -fx-font-size: 12px;
+}
+
+.due-date {
+    -fx-text-fill: #CA0B00;
+}

@@ -1,0 +1,61 @@
+
+.menubar {
+    -fx-background-color: #009290;
+    -fx-padding: 10px;
+}
+
+.menu-title {
+    -fx-font-family: 'Inter';
+    -fx-font-weight: bold;
+    -fx-font-size: 24px;
+}
+
+.logout {
+    -fx-background-color: #CA0B00;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+    -fx-padding: 7 30 7 30;
+    -fx-font-family: 'Inter';
+    -fx-font-size: 12px;
+}
+
+MenuBar {
+    -fx-font-family: 'Inter';
+}
+
+.main-container {
+    -fx-padding: 10px;
+}
+
+.student-image {
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+}
+
+.student-info-container {
+    -fx-background-color: #cce8e6;
+    -fx-background-radius: 20px;
+    -fx-border-radius: 20px;
+}
+
+.tasks-container {
+    -fx-background-color: #cce8e6;
+}
+
+.tasks-container-title {
+    -fx-font-family: 'Inter';
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+
+.student-info-container > #title {
+    -fx-font-family: 'Inter';
+    -fx-font-size: 32px;
+    -fx-font-weight: bold;
+}
+
+.student-info-container > #matricNumber {
+    -fx-font-family: 'Inter';
+    -fx-font-size: 18px;
+}
